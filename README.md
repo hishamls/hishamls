@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @hishamls
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java program
+- 🌱 I’m currently learning Java on netbeans
+- 💞️ I’m looking to collaborate and help on Java program 
+- I'm searching for a monitor or a guide
 - 📫 How to reach me modernhisham@gmail.com
 
 <!---
