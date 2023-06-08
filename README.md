@@ -6,8 +6,14 @@
 - 👀 I’m interested in web development
 - 🌱 I've learned Java on netbeans, SQL, CSS , HTML,and JavaScript
 - 💞️ I’m looking to be a UX
-- 📫 Reach me via modernhisham@gmail.com
-- +201090209759 -whats app - telegram
+- 📫 Reach me via:
+-   <a href="tel:+2 109 020 9759"><img width="24" height="24" src="https://img.icons8.com/3d-fluency/94/phone.png" alt="phone"/></a> +201090209759
+-   <a href="https://t.me/hishamls"><img width="24" height="24" src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="telegram"/></a>
+   <a href="https://m.me/hishamls"><img width="24" height="24" src="https://img.icons8.com/3d-fluency/94/facebook-messenger.png"
+      alt="facebook-messenger" /></a>
+ <a href="https://wa.me/+201090209759" target="_blank"> <img width="26" height="26" src="https://img.icons8.com/3d-fluency/94/whatsapp.png" alt="whatsapp"/></a>
+   <a href="https://www.linkedin.com/in/hishamls/"><img width="24" height="24" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/></a>
+   <a href="mailto:modernhisham@gmail.com"><img width="24" height="24" src="https://img.icons8.com/3d-fluency/94/gmail.png" alt="gmail"/></a>
 
 
 
