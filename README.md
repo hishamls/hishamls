@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Hisham Sakr
 - 👀 I’m interested in web development
 - 🌱 I've learned Java on netbeans, SQL, CSS , HTML,and JavaScript
-- 💞️ I’m looking to be a UX
+- 💞️ I’m looking to be a Front-End developer
 - 📫 Reach me via:
 -   <a href="tel:+2 109 020 9759"><img width="24" height="24" src="https://img.icons8.com/3d-fluency/94/phone.png" alt="phone"/></a> +201090209759
 -   <a href="https://t.me/hishamls"><img width="24" height="24" src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="telegram"/></a>
